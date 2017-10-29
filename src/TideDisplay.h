@@ -1,7 +1,7 @@
 #ifndef TideDisplay_h
 #define TideDisplay_h
 
-#include <neopixel.h>
+#include <neopixel.h> // from https://github.com/technobly/Particle-NeoPixel
 #include <vector>
 
 struct Color
