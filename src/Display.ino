@@ -1,5 +1,5 @@
 #include "TideDisplay.h"
-#include <ThingSpeak.h>
+#include <ThingSpeak.h> // from https://github.com/mathworks/thingspeak-particle
 
 #define PIN 7
 
